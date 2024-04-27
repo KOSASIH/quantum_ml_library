@@ -10,4 +10,8 @@ class TestQSVM(unittest.TestCase):
         pass
 
     def test_predict(self):
-        # Test the predict function for the quantum support vector
+        # Test the predict function for the quantum support vectormachine here
+        pass
+
+if __name__ == '__main__':
+    unittest.main()
