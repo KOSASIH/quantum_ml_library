@@ -22,7 +22,7 @@ pip install quantum_ml_library
 ```
 Alternatively, you can clone the repository and install it manually:
 ```
-git clone https://github.com/yourusername/quantum_ml_library.git
+git clone https://github.com/KOSASIH/quantum_ml_library.git
 cd quantum_ml_library
 pip install .
 ```
