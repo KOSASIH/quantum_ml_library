@@ -1,6 +1,6 @@
 # quantum_ml_library
 
-This repository contains a cutting-edge library for building quantum machine learning models, with support for popular quantum computing frameworks like Qiskit and Cirq. The library includes a range of pre-built quantum machine learning algorithms, as well as tools for building and training custom models.
+This repository contains a cutting-edge library for building quantum machine learning models, with support for popular quantum computing frameworks like Qiskit and Cirq. The library includes a range of pre-built quantum machine learning algorithms, as well as tools for building and training custom models. With its modular design and easy-to-use API, this library makes it simple to get started with quantum machine learning, even for users with little or no prior experience in quantum computing. Whether you're looking to explore the potential of quantum computing for machine learning, or you're a seasoned quantum computing expert looking for a powerful and flexible toolkit, this library has something to offer.
 
 # Quantum Machine Learning Library
 
